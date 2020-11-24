@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import logo from './assets/img/BL-logo.png'
+import logo from './assets/img/BridgeLabzNewLogo.svg'
 
 class App extends React.Component {
   url = 'https://www.bridgelabz.com/'
