@@ -31,7 +31,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="main">
         <div>
           <h1>Hello {this.state.userName} from Bridgelabz</h1>
           <img src={logo} onClick={this.onClick}
