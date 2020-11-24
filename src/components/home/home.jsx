@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../../assets/img/BridgeLabzNewLogo.svg'
-
+import './home.css'
 class Home extends React.Component {
     url = 'https://www.bridgelabz.com/'
     constructor() {
@@ -52,7 +52,7 @@ class Home extends React.Component {
             <br />
                         <br />
             To know about us,visit <a href="http://bridgelabz.com/" target="_blank">Bridgelabz</a> to learn even more about our mission <br />
-            i.e <bold>Employebility to All</bold>
+            i.e <b>Employebility to All</b>
                     </div>
                 </div>
             </div>
