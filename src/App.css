@@ -7,7 +7,7 @@ body,
 }
 .main {
   height: 100%;
-  background-color: #FF8A00;
+  background-color: #ff8a00a8;
 }
 h1 {
   text-align: center;
@@ -19,7 +19,7 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-  width: 25%;
+  /* width: 25%; */
   background-color: white;
 }
 .error-output {
